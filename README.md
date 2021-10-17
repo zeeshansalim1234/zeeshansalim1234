@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering Undergraduate, Research Associate, and a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I would love to explore Machine Learning and Data Science
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to pray Video Games
