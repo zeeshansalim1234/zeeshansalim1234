@@ -7,14 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to playing Video Games
 
-### Connect with me:
-
-[<img align="left" alt="zeeshansalim.com" width="22px" src="https://zeeshansalim.com/" />][website]
-[<img align="left" alt="zeeshan | LinkedIn" width="22px" src="https://www.linkedin.com/in/zeeshanchougle/" />][linkedin]
-[<img align="left" alt="zeeshan | Instagram" width="22px" src="https://www.instagram.com/zxxshan/" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
