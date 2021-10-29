@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&multiline=true&width=480&height=140&lines=Hey;My+name+is+Zeeshan+Chougle;I+study+Software+Engineering" />
 </div>
 
-## I'm a Software Engineering Undergraduate, Research Associate, and a Developer!!
-
 - 🌱 I would love to explore Machine Learning and Data Science
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
