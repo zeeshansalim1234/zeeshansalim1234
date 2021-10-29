@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&multiline=true&width=480&height=140&lines=Hey;My+name+is+Zeeshan+Chougle;I+study+Software+Engineering" />
 </div>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshanchougle/) <br />
+:computer: [Website](https://zeeshansalim.com/) <br />
+
 - 🌱 I would love to explore Machine Learning and Data Science
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
